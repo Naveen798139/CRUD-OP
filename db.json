@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "FirstName": "json-server",
+      "SecondName": "typicode",
+      "DOB": "14-05-1999",
+      "Gender": "Male",
+      "Hobbies": "Reading Books"
+    },
+    {
+      "id": 2,
+      "FirstName": "Ravi",
+      "SecondName": "Kumar",
+      "DOB": "14-05-2000",
+      "Gender": "Male",
+      "Hobbies": "Playing Games"
+    },
+    {
+      "id": 3,
+      "FirstName": "Durga",
+      "SecondName": " Bhavani",
+      "DOB": "18-08-2002",
+      "Gender": "Female",
+      "Hobbies": "Reading Books"
+    },
+    {
+      "id": 4,
+      "FirstName": "Jashwanth",
+      "SecondName": "Kumar",
+      "DOB": "14-05-1999",
+      "Gender": "Male",
+      "Hobbies": "Tv"
+    },
+    {
+      "id": 5,
+      "FirstName": "Kumari",
+      "SecondName": "Roja",
+      "DOB": "14-08-1999",
+      "Gender": "Male",
+      "Hobbies": "Reading Books"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
